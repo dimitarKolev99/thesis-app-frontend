@@ -1,0 +1,6 @@
+{
+  "COMPANY": "Liebherr",
+  "NAME": "localhost",
+  "BASE_URI": "http://localhost:8080",
+  "REST_URL": "http://localhost:8081"
+}
